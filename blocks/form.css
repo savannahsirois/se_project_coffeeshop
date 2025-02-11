@@ -40,6 +40,12 @@
   border-radius: 4px;
   margin-bottom: 32px;
   font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.5s;
+}
+
+.form__button:hover {
+  background-color: #3f96f3;
 }
 
 .form__checkbox {

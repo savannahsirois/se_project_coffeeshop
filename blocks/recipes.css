@@ -29,12 +29,15 @@
   justify-content: center;
   gap: 40px;
   list-style-type: none;
+  margin: 0;
+  padding-left: 0;
 }
 
 .recipes__iframe {
   height: 273px;
   width: 480px;
   margin: 0 0 24px;
+  border: none;
 }
 
 .recipes__video-caption {
@@ -43,4 +46,5 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
+  margin: 0;
 }

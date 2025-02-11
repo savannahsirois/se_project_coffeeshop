@@ -15,7 +15,6 @@
   font-size: 44px;
   line-height: 52px;
   margin: 0;
-  z-index: 1;
 }
 
 .about__content {
@@ -30,6 +29,7 @@
   font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
+  margin: 0;
 }
 
 .about__circle {
@@ -40,6 +40,7 @@
   position: absolute;
   top: -152px;
   left: -129px;
+  z-index: -1;
 }
 
 .about__circle_animation_blurred {

@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+While working on this project, I identified a potential improvement that could enhance the user experience and overall functionality: Optimize the layout further for different screen sizes, ensuring a seamless experience on all devices.

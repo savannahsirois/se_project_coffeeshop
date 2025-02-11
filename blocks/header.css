@@ -6,6 +6,7 @@
   background: center / cover no-repeat #fff url(../images/background_header.svg);
   position: relative;
   z-index: 1;
+  box-sizing: border-box;
 }
 
 .header__title {

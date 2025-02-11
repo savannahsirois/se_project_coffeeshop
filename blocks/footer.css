@@ -19,6 +19,8 @@
   margin: 0 0 20px;
   font-weight: bold;
   font-family: "Inter", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .footer__list {
